@@ -1,16 +1,75 @@
-# emergency_blood_bank
+Emergency_ResQConnect
+is a real-time emergency assistance application that connects users with **nearest blood banks** and **ambulance services** instantly.
 
-A new Flutter project.
+---
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+### 👤 User (Patient)
+- 🚑 Request Ambulance
+- 🩸 Request Blood (by group & units)
+- 📍 Find nearest blood banks
+- 🗺️ Live tracking (ambulance / blood bank route)
+- 📜 View history (ambulance + blood requests)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🚑 Ambulance Driver
+- 📡 Receive emergency requests
+- ✅ Accept / Reject requests
+- 📍 Live location tracking
+- 🚗 Navigate to user
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+### 🏥 Blood Bank Manager
+- 🧾 Register blood bank with location
+- 📦 Manage blood stock (group-wise)
+- 👀 View inventory
+- 🔄 Update real-time stock
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Flutter  
+- **Backend:** Firebase  
+- **Database:** Cloud Firestore  
+- **Authentication:** Firebase Auth  
+- **Maps & Location:** Flutter Map / OpenStreetMap  
+- **Real-time Tracking:** Firestore Streams  
+
+---
+
+## 🔥 How It Works
+
+### 🚑 Ambulance Flow
+1. User sends emergency request  
+2. Nearest available ambulance is assigned  
+3. Driver accepts request  
+4. Live tracking starts  
+5. Request completes  
+
+---
+
+### 🩸 Blood Request Flow
+1. User selects blood group & units  
+2. System checks nearest blood banks  
+3. Filters based on availability  
+4. Shows list sorted by distance  
+5. User selects → tracking screen  
+
+---
+
+## 📸 Screenshots
+
+_Add your app screenshots here_
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone Repo
+```bash
+git clone https://github.com/your-username/lifelink.git
+cd lifelink
