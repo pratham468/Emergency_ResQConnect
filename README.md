@@ -63,7 +63,11 @@ is a real-time emergency assistance application that connects users with **neare
 
 ## 📸 Screenshots
 
-_Add your app screenshots here_
+<img width="395" height="640" alt="image" src="https://github.com/user-attachments/assets/baf8f4c2-d1a9-420b-9c75-2a0c728b20e2" />
+
+<img width="470" height="844" alt="image" src="https://github.com/user-attachments/assets/c171ba01-89a6-48aa-bc3a-5f8e2ec29bd5" />
+
+<img width="480" height="844" alt="image" src="https://github.com/user-attachments/assets/de1db8c3-2570-4b43-bb96-eb3598ad867d" />
 
 ---
 
