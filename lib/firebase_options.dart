@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCYTctSFYNz2Pc0rgTb4AeXE96GAzvFkDY',
+    apiKey: '',
     appId: '1:530898952844:web:d7fb3b2e4710bd95a951a9',
     messagingSenderId: '530898952844',
     projectId: 'emergency-blood-bank',
@@ -52,7 +52,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAKAy-j1FrJVMqpr4BsNw92hmP3TkFvkdM',
+    apiKey: '',
     appId: '1:530898952844:android:fe1aba57d4c8815ba951a9',
     messagingSenderId: '530898952844',
     projectId: 'emergency-blood-bank',
@@ -61,7 +61,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCbP3uQF9G66mmzHrJWp4QLPmgRIcXNk9s',
+    apiKey: '',
     appId: '1:530898952844:ios:19e134403511751aa951a9',
     messagingSenderId: '530898952844',
     projectId: 'emergency-blood-bank',
@@ -71,7 +71,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCbP3uQF9G66mmzHrJWp4QLPmgRIcXNk9s',
+    apiKey: '',
     appId: '1:530898952844:ios:19e134403511751aa951a9',
     messagingSenderId: '530898952844',
     projectId: 'emergency-blood-bank',
@@ -81,7 +81,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCYTctSFYNz2Pc0rgTb4AeXE96GAzvFkDY',
+    apiKey: '',
     appId: '1:530898952844:web:ba4f2c2b714d43b0a951a9',
     messagingSenderId: '530898952844',
     projectId: 'emergency-blood-bank',
