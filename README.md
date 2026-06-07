@@ -63,11 +63,11 @@ is a real-time emergency assistance application that connects users with **neare
 
 ## 📸 Screenshots
 
-<img width="395" height="640" alt="image" src="https://github.com/user-attachments/assets/baf8f4c2-d1a9-420b-9c75-2a0c728b20e2" />
+<img width="1080" height="2412" alt="WhatsApp Image 2026-06-07 at 11 07 46 AM" src="https://github.com/user-attachments/assets/2108bb9c-f00b-4115-a704-2694889cf258" />
 
-<img width="470" height="844" alt="image" src="https://github.com/user-attachments/assets/c171ba01-89a6-48aa-bc3a-5f8e2ec29bd5" />
+<img width="716" height="1600" alt="WhatsApp Image 2026-06-07 at 11 07 45 AM" src="https://github.com/user-attachments/assets/b6744937-b8e5-4e10-96fa-dab7d5fef99a" />
 
-<img width="480" height="844" alt="image" src="https://github.com/user-attachments/assets/de1db8c3-2570-4b43-bb96-eb3598ad867d" />
+<img width="716" height="1600" alt="WhatsApp Image 2026-06-07 at 11 07 44 AM" src="https://github.com/user-attachments/assets/45465c60-8dc0-4821-9f3b-a9e2806c4933" />
 
 ---
 
