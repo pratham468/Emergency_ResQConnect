@@ -70,6 +70,19 @@ _Add your app screenshots here_
 ## ⚙️ Setup Instructions
 
 ### 1. Clone Repo
-```bash
-git clone https://github.com/your-username/lifelink.git
-cd lifelink
+bash
+https://github.com/pratham468/Emergency_ResQConnect.git
+cd emergency_blood_bank
+
+### 2. install dependencies
+flutter pub get
+
+### 3.firebase setup
+
+Create Firebase project
+Enable Authentication
+Create Firestore database
+Add google-services.json / firebase_options.dart
+
+### 4.Run App
+flutter run
